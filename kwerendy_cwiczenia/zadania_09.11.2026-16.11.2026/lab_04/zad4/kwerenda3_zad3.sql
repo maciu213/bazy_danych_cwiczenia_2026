@@ -1,0 +1,1 @@
+DELETE FROM projekt WHERE id_projektu = 1

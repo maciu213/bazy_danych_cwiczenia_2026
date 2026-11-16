@@ -1,0 +1,1 @@
+ALTER TABLE zadanie ADD FOREIGN KEY (projekt) REFERENCES projekt(id_projektu) ON DELETE SET NULL

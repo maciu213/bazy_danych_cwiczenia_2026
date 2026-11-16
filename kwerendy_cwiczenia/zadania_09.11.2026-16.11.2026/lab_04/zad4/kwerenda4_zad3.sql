@@ -1,0 +1,1 @@
+SELECT * FROM zadanie WHERE projekt IS NULL

@@ -1,0 +1,1 @@
+ALTER TABLE zadanie DROP FOREIGN KEY zadanie_ibfk_2
