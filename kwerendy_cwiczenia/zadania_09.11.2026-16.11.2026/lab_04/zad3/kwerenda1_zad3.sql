@@ -1,0 +1,1 @@
+ALTER TABLE projekt ADD COLUMN opis_kratki VARCHAR(50)

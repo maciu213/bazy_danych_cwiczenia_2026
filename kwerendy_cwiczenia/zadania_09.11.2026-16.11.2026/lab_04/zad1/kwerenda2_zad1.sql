@@ -1,0 +1,2 @@
+ALTER TABLE pracownik MODIFY id_pracownika INT NOT NULL;
+ALTER TABLE pracownik DROP PRIMARY KEY;

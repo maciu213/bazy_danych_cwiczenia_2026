@@ -1,0 +1,1 @@
+ALTER TABLE zadanie ADD COLUMN godziny_szacowane INT DEFAULT 8;

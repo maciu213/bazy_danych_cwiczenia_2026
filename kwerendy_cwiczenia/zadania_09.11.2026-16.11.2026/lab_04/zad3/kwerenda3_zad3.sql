@@ -1,0 +1,1 @@
+ALTER TABLE projekt MODIFY COLUMN opis_kratki VARCHAR(200)

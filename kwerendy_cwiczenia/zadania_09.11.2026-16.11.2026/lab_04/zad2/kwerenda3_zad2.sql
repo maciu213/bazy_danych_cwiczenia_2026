@@ -1,0 +1,1 @@
+ALTER TABLE zadanie ALTER godziny_szacowane SET DEFAULT 6

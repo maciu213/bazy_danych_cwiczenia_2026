@@ -1,0 +1,1 @@
+ALTER TABLE pracownik ADD PRIMARY KEY (id_pracownika)

@@ -1,0 +1,1 @@
+ALTER TABLE projekt DROP FOREIGN KEY projekt_ibfk_1;
