@@ -1,0 +1,1 @@
+SELECT * FROM EMPLOYEE WHERE FIRST_NAME = "Agnieszka" AND pensja = 3900;
